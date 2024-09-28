@@ -1,4 +1,4 @@
-Código completo está no BRANCH MASTER comentado do Sistema de Mercado em Liguagem C com uma explicação Linha a Linha:
+Código completo está no BRANCH MASTER, Detalhe do Sistema de Mercado em Liguagem C com uma explicação Linha a Linha:
 
 
 
