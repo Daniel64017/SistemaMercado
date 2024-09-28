@@ -1,4 +1,4 @@
-Detalhe do código Linha a Linha:
+Detalhe do código do Sistema de Mercado em Liguagem C com uma explicação Linha a Linha:
 
 
 
