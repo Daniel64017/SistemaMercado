@@ -1,10 +1,10 @@
      Sistema de Supermercado em C
 
-●Descrição do Projeto
+##Descrição do Projeto
 
 Este projeto consiste em um sistema de supermercado simples, desenvolvido em C, que implementa funcionalidades básicas de gerenciamento de produtos e carrinho de compras. O sistema permite cadastrar produtos-1, listar produtos-2, adicionar produtos ao carrinho-3, visualizar o carrinho-4 e finalizar compras-5, utilizando conceitos de structs, arrays e funções.
 
-●Funcionalidades Implementadas:
+##Funcionalidades Implementadas:
 
 1. Cadastrar Produto: Permite o cadastro de produtos com código único, nome e preço.
 
@@ -25,7 +25,7 @@ Este projeto consiste em um sistema de supermercado simples, desenvolvido em C, 
 
 
 
-●Estrutura do Sistema
+##Estrutura do Sistema
 
 O sistema é organizado em funções que dividem as operações principais, como:
 
@@ -43,7 +43,7 @@ Produto: Struct que armazena o código, nome e preço de um produto.
 Carrinho: Struct que armazena o produto e sua quantidade.
 
 
-●Como Compilar e Executar
+##Como Compilar e Executar
 
 -Compilação
 
@@ -66,7 +66,7 @@ IDE/Compilador: Visual Studio Code
 Sistema Operacional: Compatível com sistemas baseados em Unix como Linux, MacOS e Windows(via compilador adequado)
 
 
-●Exemplos de Uso
+##Exemplos de Uso
 
 -Cadastro de Produto
 
